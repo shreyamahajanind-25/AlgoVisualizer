@@ -8,6 +8,9 @@ In this implementation of sorting visualizer, we'll be looking at some of these 
 The sorting algorithms covered here are Selection Sort, Insertion Sort, Bubble Sort, Merge Sort, Quick Sort and Heap Sort.
 The list size is fixed to 130 elements. You can randomize the list and select any type of sorting algorithm to call on the list from the given options. Here, all sorting algorithms will sort the elements in ascending order. The sorting time being visualized for an algorithm is not exactly same as their actual time complexities. The relatively faster algorithms like Merge Sort, etc. have been delayed so that they could be properly visualized.
 
+
+
+
 # How to run:-
 
 Option 1.) You can run Sorting Visualizer directly from the release. Download the release and run the .exe application i.e., Sorting Visualizer.exe -> [Download](https://github.com/dipesh-m/Sorting-Visualizer/releases/tag/1.0)
@@ -32,9 +35,9 @@ Available Controls inside Sorting Visualizer:-
 
 - Sample 1 (Insertion Sort)
 
-![](samples/example1.gif)
+![](example1.gif)
 
 
 - Sample 2 (Merge Sort)
 
-![](samples/example2.gif)
+![](example2.gif)
